@@ -10,4 +10,8 @@ Remove all `node_modules` folders recursively.  A `node_modules` folder can take
 find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +
 ```
 
-## Second header
+## Installing Node
+
+### nvm
+
+The easiest way to get started with nodejs is to install it with [nvm](https://github.com/nvm-sh/nvm)
