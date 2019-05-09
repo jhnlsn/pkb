@@ -2,7 +2,7 @@
 
 ## One liners
 
-#### Run the last script with sudo**
+#### Run the last script with sudo
 
 ```bash
 sudo !!
