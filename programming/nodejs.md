@@ -23,3 +23,8 @@ The easiest way to get started with nodejs is to install it with [nvm](https://g
 ### Production
 
 You can find packages for your distro here: https://nodejs.org/en/download/current/
+
+
+## Type script
+
+Nothing to see here, move along
