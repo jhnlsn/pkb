@@ -2,20 +2,21 @@
 
 ## One liners
 
-#### Run the last script with sudo
+### Run the last script with sudo
 
 ```bash
 sudo !!
 ```
 
-#### Create tar archive
+### Create tar archive
 
 ```bash
 tar -zcvf archive.tar.gz folder_name
 ```
 
-#### Extract tar archive
+### Extract tar archive
 
 ```bash
 tar -zxvf archive.tar.gz
 ```
+

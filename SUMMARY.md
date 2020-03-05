@@ -1,7 +1,13 @@
-# Summary
+# Table of contents
 
-- [TV Series](tv-series/README.md)
-- [Movies](movies/README.md)
-- [Programming](programming/README.md)
-  - [Bash](programming/bash.md)
-  - [Nodejs](programming/nodejs.md)
+* [Introduction](README.md)
+* [TV Series](tv-series.md)
+* [Movies](movies.md)
+* [Programming](programming/README.md)
+  * [Bash](programming/bash.md)
+  * [Nodejs](programming/nodejs.md)
+* [Infrastructure](infrastructure/README.md)
+  * [Verizon](infrastructure/verizon.md)
+
+## Group?
+
