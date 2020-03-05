@@ -1,6 +1,6 @@
 # Verizon
 
-{% embed url="https://72.252.0.14" %}
+## DNS Settings
 
-
-
+71.252.0.14
+68.237.161.14
